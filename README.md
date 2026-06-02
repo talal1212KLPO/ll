@@ -1,1 +1,3 @@
-# ll
+# pyTelegramBotAPI
+requests
+rich
